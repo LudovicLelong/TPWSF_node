@@ -1,0 +1,19 @@
+{
+  "name": "node-express-server",
+  "version": "1.0.0",
+  "description": "TP WSF",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.4",
+    "csv-parser": "^3.0.0",
+    "download": "^8.0.0",
+    "download-file": "^0.1.5",
+    "express": "^4.17.1",
+    "unzipper": "^0.10.11"
+  }
+}
